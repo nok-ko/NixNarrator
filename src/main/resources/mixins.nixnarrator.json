@@ -1,0 +1,13 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "minVersion": "0.8.3",
+  "package": "me.nokko.nixnarrator.mixin",
+  "refmap": "refmap.example.json",
+  "mixins": [
+    "MixinNarrator"
+  ],
+  "server": [],
+  "client": [
+    "MixinNarrator"
+  ]
+}
