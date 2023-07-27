@@ -1,2 +1,2 @@
-# forge-mixin-example
-An example for using Mixin in Minecraft Forge
+# NixNarrator
+Minecraft Mod that eliminates Narrator functionality at runtime with a mixin that stubs out the `Narrator.getNarrator` method call.
